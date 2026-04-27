@@ -56,23 +56,11 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=devdipanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=devdipanshu&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=devdipanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=devdipanshu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devdipanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdipanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
+--- 
 
 ## ⚡ Fun Fact
 
