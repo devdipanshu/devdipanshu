@@ -52,30 +52,6 @@
 
 ---
 
-## 🚀 Projects
-
-### ParkEase
-A smart parking management system built using microservices architecture.
-
-### Library Management System
-A full-stack project using React, Node.js, Express, and MongoDB.
-
-### Breast Cancer Prediction
-A machine learning based project for predicting breast cancer using trained models.
-
----
-
-## 📚 Currently Learning
-
-- Spring Boot Advanced Concepts
-- Microservices Architecture
-- Spring Security and JWT
-- API Gateway and Eureka
-- Angular Frontend Development
-- System Design Basics
-
----
-
 <!-- GitHub Stats Section -->
 
 ## 📊 GitHub Stats
