@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 # Hi, I'm Dipanshu Sharma 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=devdipanshu&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ### Java Backend Developer | Spring Boot | Microservices
 
@@ -56,9 +56,6 @@
 
 ### ParkEase
 A smart parking management system built using microservices architecture.
-
-### Quantity Measurement App
-A Java and Spring Boot based application for unit conversion, measurement comparison, and arithmetic operations.
 
 ### Library Management System
 A full-stack project using React, Node.js, Express, and MongoDB.
